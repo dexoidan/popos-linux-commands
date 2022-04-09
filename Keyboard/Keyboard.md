@@ -3,6 +3,11 @@
 xrandr --listmonitors
 ```
 
+##### List all connected displays with technical details
+```
+xrandr --current
+```
+
 ##### Set brightness (10%) to a connected screen display [LDS-1 refers to the display device]
 ```
 xrandr --output LDS-1 --brightness .10
