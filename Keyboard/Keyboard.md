@@ -22,3 +22,5 @@ xrandr --output LDS-1 --off
 ```
 xrandr --output LDS-1 --auto
 ```
+
+If you mistakenly set brightness (0%) for all displays, there will be no problem to set brightness back again.
